@@ -1,2 +1,2 @@
 # DISNEY-HOTSTAR
-Disney+ Hotstar clone using HTML CSS and JAVASCRIPT
+Disney+ Hotstar landing page using HTML CSS and JAVASCRIPT
